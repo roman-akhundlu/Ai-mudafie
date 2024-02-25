@@ -620,5 +620,8 @@
   .cards {
     width:auto;
   }
+  .mobile img {
+    transform: translateX(-150px);
+  } 
 }
   
