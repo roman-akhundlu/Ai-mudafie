@@ -596,3 +596,43 @@
 }
 
 
+
+@media(min-width:1280px) {
+  .nav-item a {
+    transform: translateX(-150px);
+    }
+    .beginning a {
+      transform: translateX(-380px);
+    }
+    .future .manly img {
+      margin-left: 650px;
+    }
+    .companies img {
+      width: 200px;
+    }
+    .companies .mark2 img {
+      margin-left: 320px;
+    }
+
+    .companies .mark3 img {
+      margin-left: 630px;
+    }
+
+    .companies .mark4 img {
+      margin-left: 990px;
+    }
+    .mobile img {
+      margin-left: 660px;
+    }
+ .cards {
+  margin-left: 40px;
+ }
+ .cards .tuesday {
+  margin-left: 20px;
+  margin-top: 40px;
+ }
+ .three img {
+  margin-top: -700px;
+  margin-left: 640px;
+ }
+}
