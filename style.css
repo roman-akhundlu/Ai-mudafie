@@ -242,7 +242,7 @@
 
 
 .three img {
-  margin-left: 737px;
+  margin-left: 940px;
   margin-top: 50px;
 }
 
@@ -591,37 +591,8 @@
 
 
 
-@media(min-width:1280px) {
-  .nav-item {
-    transform: translateX(200px);
-  }
-  .beginning a {
-    transform: translateX(-300px);
-  }
-  .future .manly img {
-    transform: translateX(-200px);
-  }
-  .companies img {
-    width: 13%;
-  }
-  .companies .mark4 {
-    transform: translateX(-200px);
-  }
-  .companies .mark3 {
-    transform: translateX(-100px);
-  }
-  .mind h1 {
-    width: 15px;
-  }
-  .mind p {
-    width: 15px;
-    display: inline-flex;
-  }
-  .cards {
-    width:auto;
-  }
-  .mobile img {
-    transform: translateX(-150px);
-  } 
+.cards {
+  margin-left: 200px;
 }
-  
+
+
